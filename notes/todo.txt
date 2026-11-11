@@ -1,0 +1,3 @@
+Read Fluent Python ch 3
+fix carbon parser
+email Imperial about MSc

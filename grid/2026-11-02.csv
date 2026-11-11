@@ -1,0 +1,7 @@
+time,region,intensity,index
+00:00,London,120,moderate
+00:00,Scotland,28,very low
+06:00,London,ERROR,
+06:00,Wales,251,very high
+12:00,London,97,low
+12:00,Scotland,40,low
